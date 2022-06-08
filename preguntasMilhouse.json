@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "nombre": "MILHOUSE",
+        "question": "¿Cuál es el apellido de Milhouse?",
+        "answer": "VAN HOUTEN",
+        "op_A": "MILHOUSE",
+        "op_B": "VAN HOUTEN",
+        "op_C": "VAN BUUREN",
+        "op_D": "BUBBIE",
+        "duplicaAnswer": false
+    },
+    {
+        "id": 2,
+        "nombre": "MILHOUSE",
+        "question": "¿Cuál es la edad de Milhouse?",
+        "answer": "11",
+        "op_A": "10",
+        "op_B": "5",
+        "op_C": "8",
+        "op_D": "11",
+        "duplicaAnswer": true
+    },
+    {
+        "id": 3,
+        "nombre": "MILHOUSE",
+        "question": "¿Cuál es la bebida favorita de Milhouse?",
+        "answer": "LECHE DE RATA",
+        "op_A": "BUZZ COLA",
+        "op_B": "LECHE DE RATA",
+        "op_C": "MALTEADAS KRUSTY",
+        "op_D": "MALTEADA CON EXTRA AZUCAR DE APU",
+        "duplicaAnswer": true
+    },
+    {
+        "id": 4,
+        "nombre": "MILHOUSE",
+        "question": "¿Quién el mejor amigo de Milhouse?",
+        "answer": "BART",
+        "op_A": "BART",
+        "op_B": "NELSON",
+        "op_C": "LISA",
+        "op_D": "RAFA",
+        "duplicaAnswer": false
+    }
+]

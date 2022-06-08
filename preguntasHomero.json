@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "nombre": "Homero",
+        "question": "¿Cuál es el apellido de Homero?",
+        "answer": "SIMPSON",
+        "op_A": "SIMPSON",
+        "op_B": "THOMPSON",
+        "op_C": "FLIMPSON",
+        "op_D": "PATIÑO",
+        "duplicaAnswer": false
+    },
+    {
+        "id": 2,
+        "nombre": "HOMERO",
+        "question": "¿Cuál es la edad de Homero?",
+        "answer": "36",
+        "op_A": "37",
+        "op_B": "36",
+        "op_C": "40",
+        "op_D": "33",
+        "duplicaAnswer": true
+    },
+    {
+        "id": 3,
+        "nombre": "HOMERO",
+        "question": "¿Cuál es la bebida favorita de Homero?",
+        "answer": "CERVEZA DUFF",
+        "op_A": "BUZZ COLA",
+        "op_B": "CERVEZA DUFF",
+        "op_C": "MANAOS",
+        "op_D": "CERVEZA BUZZ",
+        "duplicaAnswer": false
+    },
+    {
+        "id": 4,
+        "nombre": "HOMERO",
+        "question": "¿Quíen es el mejor amigo Homero?",
+        "answer": "BARNEY",
+        "op_A": "BARNEY",
+        "op_B": "MOE",
+        "op_C": "LENNY",
+        "op_D": "CARL",
+        "duplicaAnswer": true
+    }
+]

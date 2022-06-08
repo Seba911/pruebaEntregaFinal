@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "nombre": "Random",
+        "question": "Comer una ________ es como llevar un buen matrimonio",
+        "answer": "naranja",
+        "op_A": "sandía",
+        "op_B": "naranja",
+        "op_C": "hamburguesa",
+        "op_D": "mandarina",
+        "duplicaAnswer": false
+    },
+    {
+        "id": 2,
+        "nombre": "Random",
+        "question": "¡¿Robar?!? ¿¡Cómo pudiste?!? ¿¡No Aprendiste nada del que nos da los sarmones en la iglesia, ese...",
+        "answer": "Capitán NoseQué?!",
+        "op_A": "Skinner?!",
+        "op_B": "Ned Flanders?!",
+        "op_C": "Reverendo Alegría?!",
+        "op_D": "Capitán NoseQué?!",
+        "duplicaAnswer": false
+    },
+    {
+        "id": 3,
+        "nombre": "Random",
+        "question": "Mi Homero no es comunista.. podrá ser mentiroso..",
+        "answer": "puerco, idiota, comunista, pero núnca una estrella de porno",
+        "op_A": "puerco, peronista, pero núnca una estrella de porno",
+        "op_B": "puerco, idiota, comunista, pero núnca una estrella nopor",
+        "op_C": "puerco, idiota, comunista, pero núnca una estrella de porno",
+        "op_D": "puerco, comunista, pero núnca una estrella de porno",
+        "duplicaAnswer": true
+    },
+    {
+        "id": 4,
+        "nombre": "Random",
+        "question": "Nadie puede arruinar las vacaciones más que yo, y talvez...",
+        "answer": "El muchacho",
+        "op_A": "Bart",
+        "op_B": "El muchacho",
+        "op_C": "Homero",
+        "op_D": "El Barto",
+        "duplicaAnswer": true
+    }
+]
